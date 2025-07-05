@@ -1,5 +1,18 @@
 div{
+    border: 1px solid black;
+    box-shadow: 5px 5px;
     background-color: aquamarine;
     padding: 10px;
-    margin: 10px;
+    margin: 20px ;
+    width :700px
+    
+}
+.git{
+    margin: 1opx;
+    border:1px solid rgb(0, 0, 0);
+    width: 200px;
+    padding: 20px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+
 }
